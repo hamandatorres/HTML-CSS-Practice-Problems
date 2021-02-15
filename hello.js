@@ -1,8 +1,5 @@
-let myFriends = ['jeremy', 'missy', 'brack'];
-let singleFriend = myFriends[0];
-singleFriend
 
+for(var i = 0; i < 10; i++){
+    console.log(i)
 
-
-
-
+}
